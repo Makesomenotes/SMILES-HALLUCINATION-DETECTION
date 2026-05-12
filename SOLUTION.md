@@ -98,3 +98,7 @@ python solution.py
 ## Final Metric
 
 **Test AUROC: 71.74%** (averaged over 5 folds, up from 63.7% baseline MLP)
+
+## prediction.csv
+
+Link to a prediction.csv file [here](https://disk.yandex.ru/d/MdbVefATUMnDBw) 
